@@ -1,8 +1,8 @@
-name = "sub"
+name = "mainta2"
 main = "src/worker.ts"
 compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
 
 kv_namespaces = [
-  { binding = "settings", id = "KV_NAME" }
+  { binding = "settings", id = "a76a152623d34382b6c5565e0bf1e865" }
 ]
